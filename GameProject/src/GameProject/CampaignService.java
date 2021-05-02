@@ -1,0 +1,8 @@
+package GameProject;
+
+public interface CampaignService 
+{
+	void Add(Campaign campaign);
+	void Delete(Campaign campaign);
+	void Update(Campaign campaign);
+}
