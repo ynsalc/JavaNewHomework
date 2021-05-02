@@ -14,7 +14,7 @@ public class GamerManager implements GamerService
 	{
 		if(userValidationService.validation(gamer)==true)
 		{
-			System.out.println("Eklendi.");
+			System.out.println("Sisteme baþarýyla giriþ yapýldý.");
 		}
 		else 
 		{
